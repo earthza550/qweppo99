@@ -1,0 +1,19 @@
+{
+  "name": "lao550",
+  "main": "lao2499",
+  "theme": "syntax",
+  "version": "1.3.2",
+  "description": "ซื้อหวยลาว แทงหวยลาว",
+  "keywords": [
+    "หวยลาว",
+    "แทงหวยลาว",
+    "ซื้อหวยลาว",
+    "เล่นหวยลาว",
+    "หวยลาวพัฒนา"
+  ],
+  "repository": "https://github.com/earthza550/qweppo99",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
